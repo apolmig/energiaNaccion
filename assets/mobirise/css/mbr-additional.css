@@ -4,6 +4,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -411,11 +412,21 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#testimonials3-9 .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-9 .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-9 .mbr-section-subtitle {
+  color: #ffffff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
+  font-size: 19px;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -427,6 +438,7 @@ h6,
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-0 .link {
   font-size: 1.2rem;
@@ -483,13 +495,6 @@ h6,
 }
 #form1-3 .form-control-label {
   color: #232323;
-}
-#features7-6 .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-6 .iconbox {
-  background-color: #c0a375;
-  border-color: #c0a375;
 }
 #footer1-7 P {
   color: #000000;
