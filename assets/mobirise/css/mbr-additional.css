@@ -412,14 +412,13 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#testimonials3-9 .mbr-section-title {
-  color: #efefef;
+#msg-box8-j .mbr-section-title,
+#msg-box8-j p {
+  color: #fff;
 }
-#testimonials3-9 .mbr-author-name {
-  color: #ccc;
-}
-#testimonials3-9 .mbr-section-subtitle {
-  color: #ffffff;
+#header3-l .mbr-section-title,
+#header3-l .mbr-section-subtitle {
+  text-align: center;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -487,11 +486,12 @@ h6,
 #menu-0 .btn {
   font-size: 20px;
 }
-#slider-1 P {
-  text-align: center;
-}
 #msg-box4-2 H3 {
   text-align: right;
+}
+#header3-k .mbr-section-title,
+#header3-k .mbr-section-subtitle {
+  text-align: center;
 }
 #form1-3 .form-control-label {
   color: #232323;
