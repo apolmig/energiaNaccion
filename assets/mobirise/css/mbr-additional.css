@@ -499,3 +499,13 @@ h6,
 #footer1-7 P {
   color: #000000;
 }
+#social-buttons1-n .mbr-section-title {
+  font-size: 36px;
+}
+#social-buttons2-o .mbr-section-title,
+#social-buttons2-o .btn-social {
+  color: #232323;
+}
+#social-buttons2-o .mbr-section-title {
+  font-size: 36px;
+}
